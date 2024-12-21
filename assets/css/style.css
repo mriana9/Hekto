@@ -138,7 +138,8 @@ section {
   padding-left: 15px;
   font-size: 16px;
   font-weight: 600;
-  width: 317px;
+  min-width: 317px;
+  width: 100%;
 }
 
 .footer .search-form button,
